@@ -34,20 +34,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=geanfarias&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="geanfarias" />
+  <img height="180em" src="https://github-stats.geanfarias.dev/api/top-langs?username=geanfarias&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="geanfarias" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=geanfarias&theme=tokyonight" alt="geanfarias" />
 </div>
 
 ## 📌 Contribuições
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geanfarias&theme=tokyonight" alt="Gráfico de contribuições" />
-  <img src="https://github-readme-stats.vercel.app/api?username=geanfarias&show_icons=true&theme=tokyonight" alt="Estatísticas GitHub" />
+  <img src="https://github-stats.geanfarias.dev/api?username=geanfarias&show_icons=true&theme=tokyonight" alt="Estatísticas GitHub" />
 </div>
-
-<!-- Nota: As estatísticas mostram apenas contribuições em repositórios públicos. -->
-<!-- Para incluir dados de repositórios privados, você precisaria hospedar o github-readme-stats com seu token pessoal -->
-<!-- Mais informações: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
-
 
 ## 📫 Entre em contato
 
