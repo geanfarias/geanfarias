@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: geanfarias/github-activity-readme@master
+      - uses: geanfarias/geanfarias@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
